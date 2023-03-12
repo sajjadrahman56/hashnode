@@ -4,7 +4,7 @@ datePublished: Mon Mar 06 2023 17:33:52 GMT+0000 (Coordinated Universal Time)
 cuid: clex3pynk000x09i7gydafjmw
 slug: 9th-week-of-52-weeks
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678123835117/43413131-155c-48f1-9dcf-9d16eedf3c1d.png
-tags: machine-learning, beginner, linearregression, 52weeks, sajjad-rahman
+tags: machine-learning, beginner, linearregression, 52weeks, sajjadrahman
 
 ---
 
