@@ -1,5 +1,6 @@
 ---
 title: "Cloud Computing Basic"
+seoTitle: "Essential Cloud Computing Guide"
 datePublished: Fri May 26 2023 18:31:42 GMT+0000 (Coordinated Universal Time)
 cuid: cli4wgc1c000e0akzcpwn2qs0
 slug: cloud-computing-basic
@@ -30,7 +31,7 @@ Cloud service providers, such as Azure and AWS, offer a variety of services, inc
 
 When it comes to deployment models in cloud computing, there are three primary categories:
 
-1. ***Private Cloud****:* Organizations create their cloud environment within their data centers and are responsible for operating the services they provide. Private clouds are not accessible to users outside the organization.
+1. ***Private Cloud***\*:\* Organizations create their cloud environment within their data centers and are responsible for operating the services they provide. Private clouds are not accessible to users outside the organization.
     
 2. ***Public Cloud:*** Owned by cloud services or hosting providers, public clouds offer resources and services to multiple organizations and users. They are accessed through secure network connections.
     
@@ -47,4 +48,16 @@ Cloud computing has revolutionized the way businesses operate, providing scalabi
 
 Cloud computing is the delivery of computing services over the internet, offering benefits such as flexibility, scalability, and cost-effectiveness. Cloud service providers like AWS and Azure offer a range of services, including computing power, storage, applications, networking, and analytics. There are three deployment models: private cloud, public cloud, and hybrid cloud. Cloud computing has transformed businesses by providing a scalable and efficient infrastructure, enabling digital transformation worldwide.
 
-> Cloud computing is a delivery of computing services over the internet, providing scalability, flexibility, and cost-effectiveness. It has three deployment models and has revolutionized the way businesses operate, enabling digital transformation worldwide.
+> Cloud computing is the delivery of computing services over the internet, providing scalability, flexibility, and cost-effectiveness. It has three deployment models and has revolutionized the way businesses operate, enabling digital transformation worldwide.
+
+---
+
+Connect with me
+
+@[Sajjad Rahman](@sajjadrahman56)
+
+[LinkedIn](https://www.linkedin.com/in/sajjadrahman56)
+
+[Twitter](https://twitter.com/sajjadrahman56)
+
+[Github](https://github.com/sajjadrahman56)
