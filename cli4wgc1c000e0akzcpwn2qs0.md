@@ -1,9 +1,10 @@
 ---
-title: "Cloud Computing Basic"
+title: "Cloud Computing"
 seoTitle: "Essential Cloud Computing Guide"
+seoDescription: "Cloud computing offers flexible, scalable, cost-effective services, transforming businesses globally via three deployment models"
 datePublished: Fri May 26 2023 18:31:42 GMT+0000 (Coordinated Universal Time)
 cuid: cli4wgc1c000e0akzcpwn2qs0
-slug: cloud-computing-basic
+slug: cloud-computing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685125115972/5e2f0a58-1072-4c58-b319-deba6f0efe1b.jpeg
 tags: azure, cloud-computing, technical-writing-1, sajjadrahman
 
