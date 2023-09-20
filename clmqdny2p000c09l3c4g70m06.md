@@ -3,7 +3,7 @@ title: "Mastering Python Functions"
 datePublished: Tue Sep 19 2023 13:55:30 GMT+0000 (Coordinated Universal Time)
 cuid: clmqdny2p000c09l3c4g70m06
 slug: mastering-python-functions
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695131680724/c41e04e5-8de8-49b7-9772-69f393048c5b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695202019147/d7c32b9b-a171-4252-8d58-a8230d2366df.png
 tags: programming-blogs, python, python-beginner, mlops, sajjadrahman
 
 ---
