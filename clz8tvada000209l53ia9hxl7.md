@@ -5,7 +5,7 @@ seoDescription: "Learn about Google's Gemini API and understand the fundamentals
 datePublished: Tue Jul 30 2024 19:45:25 GMT+0000 (Coordinated Universal Time)
 cuid: clz8tvada000209l53ia9hxl7
 slug: gemini-api-part-01
-tags: ai, google, deep-learning, llm, generative-ai, sajjadrahman, gemini
+tags: ai, google, deep-learning, transformers, llm, generative-ai, large-language-models, sajjadrahman, gemini
 
 ---
 
